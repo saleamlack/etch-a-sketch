@@ -80,6 +80,8 @@ button:hover {
     background-color: #8080D7;
 } 
 .sketchPad {
+    display: flex;
+    flex-direction: column;
     width: 450px;
     box-sizing: border-box;
     background-color: #FFFFFF;
